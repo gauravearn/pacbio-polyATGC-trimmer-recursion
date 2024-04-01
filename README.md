@@ -1,5 +1,5 @@
 # pacbio-polyATGC-trimmer-recursion
-A shorter version after implementing a array recompile and storing the variables while running a subtle part of the recursion. Brian Haas told me to find it a way to make it shorter. I implemented a recursive recompile with in the code and remove all the if iterations. so the code is now only a block of code and not blocks of code. I stored the variables in an array and then put a recursive recompile on the array. 
+a shorter version after implementing a array recompile and storing the variables while running a subtle part of the recursion. Brian Haas told me to find it a way to make it shorter. I implemented a recursive recompile with in the code and remove all the if iterations. so the code is now only a block of code and not blocks of code. I stored the variables in an array and then put a recursive recompile on the array. 
 
 ```
 longreadpolyATGCtrimmer("/Users/gauravsablok/Desktop/CodeCheck/fasta_sample_datasets/test_sample_short.fasta",
